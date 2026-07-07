@@ -1,0 +1,21 @@
+{
+  "Group": "Swerewolf",
+  "Name": "HitTheTargetsExample",
+  "Version": "1.0.0",
+  "Description": "An example of using trigger volumes to check if multiple targets have been hit with a projectile.",
+  "Authors": [
+    {
+      "Name": "Swerewolf",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "ServerVersion": ">=0.5.6 <0.6.0",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
