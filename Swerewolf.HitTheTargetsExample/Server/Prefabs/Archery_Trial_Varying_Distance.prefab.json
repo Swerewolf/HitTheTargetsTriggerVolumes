@@ -1,0 +1,3856 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -3,
+      "y": 0,
+      "z": -17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -16,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -15,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -14,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -13,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -12,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -11,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -10,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -9,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -16,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -15,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -14,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -13,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -12,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -11,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -10,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -9,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 13,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 14,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 15,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 16,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -16,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -15,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -15,
+      "name": "*Rock_Marble_Brick_Stairs_State_Definitions_Corner_Left",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -14,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -14,
+      "name": "Rock_Marble_Brick_Stairs",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -13,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -13,
+      "name": "*Rock_Marble_Brick_Stairs_State_Definitions_Corner_Right"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -12,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -11,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -10,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -9,
+      "name": "Rock_Crystal_Red_Block",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -9,
+      "name": "Deco_Target"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Crystal_Red_Block",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Deco_Target"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 9,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 10,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 11,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 12,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 13,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 14,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 15,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 16,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -16,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -15,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -15,
+      "name": "Rock_Marble_Brick_Stairs",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -14,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -14,
+      "name": "Rock_Sandstone_White_Brick_Ornate",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -13,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -13,
+      "name": "Rock_Marble_Brick_Stairs"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -12,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -11,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -10,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -9,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 9,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 10,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 11,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 12,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 13,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 14,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 15,
+      "name": "Rock_Crystal_Blue_Block",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 16,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -16,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -15,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -15,
+      "name": "*Rock_Marble_Brick_Stairs_State_Definitions_Corner_Left",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -14,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -14,
+      "name": "Rock_Marble_Brick_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -13,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -13,
+      "name": "*Rock_Marble_Brick_Stairs_State_Definitions_Corner_Left"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -12,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -11,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -10,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -9,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -8,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -7,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -6,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Crystal_Red_Block",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Deco_Target"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 6,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 9,
+      "name": "Rock_Crystal_Red_Block",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 9,
+      "name": "Deco_Target"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 10,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 11,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 12,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 13,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 14,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 15,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 16,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -16,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -15,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -14,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -13,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -12,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -11,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -10,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 9,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 10,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 11,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 13,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 14,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 15,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 16,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -17,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -16,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -15,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -14,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -13,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -12,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -11,
+      "name": "Rock_Marble_Cobble",
+      "rotation": 2
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -10,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -5,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 7,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 8,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 9,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 10,
+      "name": "Rock_Marble_Cobble"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 11,
+      "name": "Rock_Marble_Cobble"
+    }
+  ],
+  "fluids": [
+    {
+      "x": -3,
+      "y": 0,
+      "z": -17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -3,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -2,
+      "y": 0,
+      "z": 17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 1,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 6,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "z": 17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -17,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -16,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -15,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -14,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -13,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -12,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -11,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -5,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -4,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -3,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -2,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 7,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 8,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 9,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 10,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "z": 11,
+      "name": "Empty",
+      "level": 0
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 2.5,
+            "Z": -13.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5000000754978939,
+              "Y": -0.5,
+              "Z": -0.5000000754978939
+            },
+            "Max": {
+              "X": 0.5000000754978939,
+              "Y": 0.5,
+              "Z": 0.5000000754978939
+            }
+          },
+          "Effects": [
+            {
+              "Type": "PlayVfx",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "ParticleSystem": "Firework_Mix2",
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "AtEntity": false,
+              "Scale": 1.0,
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Duration": 0.0
+            },
+            {
+              "Type": "PlaySound",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "SoundEvent": "SFX_Bomb_Fire_Goblin_Death",
+              "Volume": 1.0,
+              "Pitch": 1.0
+            },
+            {
+              "Type": "PlaceBlock",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "BlockType": "Furniture_Dungeon_Chest_Epic",
+              "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Origin": "VolumeOrigin",
+              "ReplaceMode": "Always"
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "TAG_ADDED",
+              "Source": "Self",
+              "TagKey": "giveReward",
+              "TagValue": "",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "rewardZone": "Empty"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 0
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 2.0,
+            "Z": 0.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -3.5,
+              "Y": -2.0,
+              "Z": -17.5
+            },
+            "Max": {
+              "X": 3.5,
+              "Y": 2.0,
+              "Z": 17.5
+            }
+          },
+          "Effects": [
+            {
+              "Type": "ShowEventTitle",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "PrimaryTitle": "Trial of Archery",
+              "SecondaryTitle": "stand on the blue crystal and hit all the targets",
+              "IsMajor": true,
+              "Icon": "",
+              "Duration": 3.0,
+              "FadeInDuration": 0.5,
+              "FadeOutDuration": 1.5
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "KeepLoaded": false,
+          "PrefabIndex": 1
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": -0.5,
+            "Y": 1.0,
+            "Z": 3.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5000000754978939,
+              "Y": -1.0,
+              "Z": -0.5000000754978939
+            },
+            "Max": {
+              "X": 0.5000000754978939,
+              "Y": 1.0,
+              "Z": 0.5000000754978939
+            }
+          },
+          "Effects": [
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Red_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Green_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "TAG_ADDED",
+              "Source": "Self",
+              "TagKey": "hitTag",
+              "TagValue": "",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "crystalIndicator": "Empty"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 2
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 1.5,
+            "Y": 1.0,
+            "Z": -2.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5000000754978939,
+              "Y": -1.0,
+              "Z": -0.5000000754978939
+            },
+            "Max": {
+              "X": 0.5000000754978939,
+              "Y": 1.0,
+              "Z": 0.5000000754978939
+            }
+          },
+          "Effects": [
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Red_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Green_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "TAG_ADDED",
+              "Source": "Self",
+              "TagKey": "hitTag",
+              "TagValue": "",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "crystalIndicator": "Empty"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 3
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 1.5,
+            "Y": 1.0,
+            "Z": 9.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5000000754978939,
+              "Y": -1.0,
+              "Z": -0.5000000754978939
+            },
+            "Max": {
+              "X": 0.5000000754978939,
+              "Y": 1.0,
+              "Z": 0.5000000754978939
+            }
+          },
+          "Effects": [
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Red_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Green_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "TAG_ADDED",
+              "Source": "Self",
+              "TagKey": "hitTag",
+              "TagValue": "",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "crystalIndicator": "Empty"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 4
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 2.0,
+            "Z": 15.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -2.5000003774894695,
+              "Y": -1.0,
+              "Z": -2.5000003774894695
+            },
+            "Max": {
+              "X": 2.5000003774894695,
+              "Y": 1.0,
+              "Z": 2.5000003774894695
+            }
+          },
+          "Effects": [
+            {
+              "Type": "ModifyTags",
+              "Event": "TICK",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "giveReward",
+              "TagValue": "Empty",
+              "MatchKey": "rewardZone",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "TICK",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "inPosition",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "TICK",
+              "Interval": 0.0,
+              "Delay": 1.5,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "TICK",
+              "Source": "Self",
+              "TagKey": "targetsHit",
+              "TagValue": "4",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "targetsHit": "0"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 5
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 1.5,
+            "Y": 2.0,
+            "Z": 10.0
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Sphere",
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 0.5
+          },
+          "Effects": [
+            {
+              "Type": "PlayVfx",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "ParticleSystem": "Firework_GS",
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "AtEntity": false,
+              "Scale": 1.0,
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Duration": 0.0
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "hitTag",
+              "TagValue": "True",
+              "MatchKey": "crystalIndicator",
+              "MatchValue": "",
+              "Radius": 2.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Increment",
+              "TagKey": "targetsHit",
+              "TagValue": "1",
+              "MatchKey": "targetsHit",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "ENTER",
+              "Source": "Radius",
+              "TagKey": "inPosition",
+              "TagValue": "true",
+              "MatchKey": "inPosition",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Projectile"
+          ],
+          "KeepLoaded": false,
+          "Color": {
+            "X": 0.0,
+            "Y": 0.800000011920929,
+            "Z": 0.3803921639919281
+          },
+          "PrefabIndex": 6
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 1.5,
+            "Y": 2.0,
+            "Z": -2.0
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Sphere",
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 0.5
+          },
+          "Effects": [
+            {
+              "Type": "PlayVfx",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "ParticleSystem": "Firework_GS",
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "AtEntity": false,
+              "Scale": 1.0,
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Duration": 0.0
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "hitTag",
+              "TagValue": "True",
+              "MatchKey": "crystalIndicator",
+              "MatchValue": "",
+              "Radius": 2.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Increment",
+              "TagKey": "targetsHit",
+              "TagValue": "1",
+              "MatchKey": "targetsHit",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "ENTER",
+              "Source": "Radius",
+              "TagKey": "inPosition",
+              "TagValue": "true",
+              "MatchKey": "inPosition",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Projectile"
+          ],
+          "KeepLoaded": false,
+          "Color": {
+            "X": 0.0,
+            "Y": 0.800000011920929,
+            "Z": 0.3803921639919281
+          },
+          "PrefabIndex": 7
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": -0.5,
+            "Y": 1.0,
+            "Z": -8.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5000000754978939,
+              "Y": -1.0,
+              "Z": -0.5000000754978939
+            },
+            "Max": {
+              "X": 0.5000000754978939,
+              "Y": 1.0,
+              "Z": 0.5000000754978939
+            }
+          },
+          "Effects": [
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Red_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Green_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "TAG_ADDED",
+              "Source": "Self",
+              "TagKey": "hitTag",
+              "TagValue": "",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "crystalIndicator": "Empty"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 8
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 1.5,
+            "Z": 15.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5000000754978939,
+              "Y": -1.5,
+              "Z": -0.5000000754978939
+            },
+            "Max": {
+              "X": 0.5000000754978939,
+              "Y": 1.5,
+              "Z": 0.5000000754978939
+            }
+          },
+          "Effects": [
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "inPosition",
+              "TagValue": "true",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "EXIT",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "inPosition",
+              "TagValue": "false",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "EXIT",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Red_Block",
+                "Rock_Crystal_Green_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Blue_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Blue_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Green_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "inPosition": "false"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 9
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": -0.5,
+            "Y": 2.0,
+            "Z": -8.0
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Sphere",
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 0.5
+          },
+          "Effects": [
+            {
+              "Type": "PlayVfx",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "ParticleSystem": "Firework_GS",
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "AtEntity": false,
+              "Scale": 1.0,
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Duration": 0.0
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "hitTag",
+              "TagValue": "True",
+              "MatchKey": "crystalIndicator",
+              "MatchValue": "",
+              "Radius": 2.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Increment",
+              "TagKey": "targetsHit",
+              "TagValue": "1",
+              "MatchKey": "targetsHit",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "ENTER",
+              "Source": "Radius",
+              "TagKey": "inPosition",
+              "TagValue": "true",
+              "MatchKey": "inPosition",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Projectile"
+          ],
+          "KeepLoaded": false,
+          "Color": {
+            "X": 0.0,
+            "Y": 0.800000011920929,
+            "Z": 0.3803921639919281
+          },
+          "PrefabIndex": 10
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": -0.5,
+            "Y": 2.0,
+            "Z": 4.0
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Sphere",
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 0.5
+          },
+          "Effects": [
+            {
+              "Type": "PlayVfx",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "ParticleSystem": "Firework_GS",
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "AtEntity": false,
+              "Scale": 1.0,
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Duration": 0.0
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "hitTag",
+              "TagValue": "True",
+              "MatchKey": "crystalIndicator",
+              "MatchValue": "",
+              "Radius": 2.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Increment",
+              "TagKey": "targetsHit",
+              "TagValue": "1",
+              "MatchKey": "targetsHit",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "ENTER",
+              "Source": "Radius",
+              "TagKey": "inPosition",
+              "TagValue": "true",
+              "MatchKey": "inPosition",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Projectile"
+          ],
+          "KeepLoaded": false,
+          "Color": {
+            "X": 0.0,
+            "Y": 0.800000011920929,
+            "Z": 0.3803921639919281
+          },
+          "PrefabIndex": 11
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Block",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Deco_Target"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Marble_Brick",
+      "rotation": 2
+    }
+  ],
+  "fluids": [
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Empty",
+      "level": 0
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Empty",
+      "level": 0
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 1.0,
+            "Z": 0.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5000000754978939,
+              "Y": -1.0,
+              "Z": -0.5000000754978939
+            },
+            "Max": {
+              "X": 0.5000000754978939,
+              "Y": 1.0,
+              "Z": 0.5000000754978939
+            }
+          },
+          "Effects": [
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Red_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Green_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "TAG_ADDED",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "TAG_ADDED",
+              "Source": "Self",
+              "TagKey": "hitTag",
+              "TagValue": "",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "crystalIndicator": "Empty"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 0
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 2.0,
+            "Z": 1.0
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Sphere",
+            "Center": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            },
+            "Radius": 0.5
+          },
+          "Effects": [
+            {
+              "Type": "PlayVfx",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "ParticleSystem": "Firework_GS",
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "AtEntity": false,
+              "Scale": 1.0,
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Duration": 0.0
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "hitTag",
+              "TagValue": "True",
+              "MatchKey": "crystalIndicator",
+              "MatchValue": "",
+              "Radius": 2.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Increment",
+              "TagKey": "targetsHit",
+              "TagValue": "1",
+              "MatchKey": "targetsHit",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "ENTER",
+              "Source": "Radius",
+              "TagKey": "inPosition",
+              "TagValue": "true",
+              "MatchKey": "inPosition",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Projectile"
+          ],
+          "KeepLoaded": false,
+          "Color": {
+            "X": 0.0,
+            "Y": 0.800000011920929,
+            "Z": 0.3803921639919281
+          },
+          "PrefabIndex": 1
+        }
+      }
+    }
+  ]
+}
