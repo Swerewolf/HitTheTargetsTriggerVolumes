@@ -1,0 +1,189 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Crystal_Blue_Block"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Smooth"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Shale_Brick_Smooth"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 1.0,
+            "Z": 0.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5,
+              "Y": -1.0,
+              "Z": -0.5
+            },
+            "Max": {
+              "X": 0.5,
+              "Y": 1.0,
+              "Z": 0.5
+            }
+          },
+          "Effects": [
+            {
+              "Type": "SendSignal",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "MatchKey": "targetDoor",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume",
+              "SignalKeys": [
+                "doorFlipStart"
+              ]
+            },
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Blue_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Green_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Origin": "VolumeOrigin",
+              "Rotation": "None"
+            },
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "EXIT",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Green_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Blue_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Origin": "VolumeOrigin",
+              "Rotation": "None"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "validPosition",
+              "TagValue": "true",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "EXIT",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "validPosition",
+              "TagValue": "false",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "validPosition": "false",
+            "cleanupTag": "Empty"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 0
+        }
+      }
+    }
+  ]
+}

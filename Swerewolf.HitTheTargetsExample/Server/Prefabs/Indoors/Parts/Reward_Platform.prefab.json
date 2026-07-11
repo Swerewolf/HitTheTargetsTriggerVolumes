@@ -1,0 +1,201 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 0,
+      "z": -1,
+      "name": "*Rock_Shale_Brick_Stairs_State_Definitions_Corner_Left",
+      "rotation": 2
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Stairs",
+      "rotation": 3
+    },
+    {
+      "x": -1,
+      "y": 0,
+      "z": 1,
+      "name": "*Rock_Shale_Brick_Stairs_State_Definitions_Corner_Left",
+      "rotation": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": -1,
+      "name": "Rock_Shale_Brick_Stairs",
+      "rotation": 2
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Sandstone_White_Brick_Ornate"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 1,
+      "name": "Rock_Shale_Brick_Stairs"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": -1,
+      "name": "*Rock_Shale_Brick_Stairs_State_Definitions_Corner_Left",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Shale_Brick_Stairs",
+      "rotation": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 1,
+      "name": "*Rock_Shale_Brick_Stairs_State_Definitions_Corner_Left"
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 0.5,
+            "Y": 1.5,
+            "Z": 0.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5,
+              "Y": -0.5,
+              "Z": -0.5
+            },
+            "Max": {
+              "X": 0.5,
+              "Y": 0.5,
+              "Z": 0.5
+            }
+          },
+          "Effects": [
+            {
+              "Type": "PlaceBlock",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "BlockType": "Rock_Gem_Ruby",
+              "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Origin": "VolumeOrigin",
+              "ReplaceMode": "Always",
+              "Rotation": "None"
+            },
+            {
+              "Type": "PlaySound",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "SoundEvent": "SFX_Bomb_Fire_Goblin_Death",
+              "Volume": 1.0,
+              "Pitch": 1.0,
+              "Location": "VolumeCenter",
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            {
+              "Type": "PlayVfx",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "ParticleSystem": "Firework_Mix2",
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Anchor": "Volume",
+              "Scale": 1.0,
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Duration": 0.0
+            },
+            {
+              "Type": "DeleteVolume",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.25,
+              "MatchKey": "cleanupTag",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "SIGNAL_RECEIVED",
+              "Source": "Event",
+              "TagKey": "targetHit",
+              "TagValue": "",
+              "Inverted": false,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "TagCondition",
+              "Event": "SIGNAL_RECEIVED",
+              "Source": "Self",
+              "TagKey": "targetsRemaining",
+              "TagValue": "0",
+              "Inverted": false,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "targetsRemaining": "0",
+            "cleanupTag": "Empty",
+            "rewardZone": "Empty"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 0
+        }
+      }
+    }
+  ]
+}

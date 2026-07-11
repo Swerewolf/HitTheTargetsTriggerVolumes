@@ -1,0 +1,387 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 0,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": -1,
+      "y": 0,
+      "z": 0,
+      "name": "Rock_Crystal_Red_Block",
+      "rotation": 5
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "name": "Empty"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "z": 0,
+      "name": "*Furniture_Temple_Dark_Trapdoor_State_Definitions_OpenDoorOut",
+      "rotation": 1
+    }
+  ],
+  "entities": [
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": -0.3125,
+            "Y": 0.5,
+            "Z": 0.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.6875,
+              "Y": -0.5,
+              "Z": -0.5
+            },
+            "Max": {
+              "X": 0.6875,
+              "Y": 0.5,
+              "Z": 0.5
+            }
+          },
+          "Effects": [
+            {
+              "Type": "ReplaceBlockType",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "FromBlockTypes": [
+                "Rock_Crystal_Red_Block"
+              ],
+              "ToBlockType": "Rock_Crystal_Green_Block",
+              "Bounds": "Shape",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Origin": "VolumeOrigin",
+              "Rotation": "None"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "VOLUME_CREATE",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Increment",
+              "TagKey": "targetsRemaining",
+              "TagValue": "1",
+              "MatchKey": "rewardZone",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "PlayVfx",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "ParticleSystem": "Firework_GS",
+              "Offset": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Anchor": "Volume",
+              "Scale": 1.0,
+              "Rotation": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              },
+              "Duration": 0.0
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Increment",
+              "TagKey": "targetsRemaining",
+              "TagValue": "-1",
+              "MatchKey": "rewardZone",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "SendSignal",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "MatchKey": "rewardZone",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume",
+              "SignalKeys": [
+                "targetHit"
+              ]
+            },
+            {
+              "Type": "DisableVolume",
+              "Event": "ENTER",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "MatchKey": "targetDoor",
+              "MatchValue": "",
+              "Radius": 2.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "ENTER",
+              "Source": "Radius",
+              "TagKey": "validPosition",
+              "TagValue": "true",
+              "Inverted": false,
+              "MatchKey": "validPosition",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Projectile"
+          ],
+          "Tags": {
+            "cleanupTag": "Empty"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 0
+        }
+      }
+    },
+    {
+      "Components": {
+        "Transform": {
+          "Position": {
+            "X": 1.5,
+            "Y": 0.5,
+            "Z": 0.5
+          },
+          "Rotation": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+          }
+        },
+        "TriggerVolume": {
+          "Shape": {
+            "Type": "Box",
+            "Min": {
+              "X": -0.5,
+              "Y": -0.5,
+              "Z": -0.5
+            },
+            "Max": {
+              "X": 0.5,
+              "Y": 0.5,
+              "Z": 0.5
+            }
+          },
+          "Effects": [
+            {
+              "Type": "SendSignal",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume",
+              "SignalKeys": [
+                "doorToggle"
+              ],
+              "SignalValues": [
+                "true"
+              ]
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Entry": 1,
+              "Operation": "Set",
+              "TagKey": "doorToggle",
+              "TagValue": "true",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ControlDoors",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Entry": 1,
+              "Action": "Close"
+            },
+            {
+              "Type": "SendSignal",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "Entry": 1,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume",
+              "SignalKeys": [
+                "doorToggle"
+              ],
+              "SignalValues": [
+                "false"
+              ]
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Entry": 2,
+              "Operation": "Set",
+              "TagKey": "doorToggle",
+              "TagValue": "false",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "ControlDoors",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Entry": 2,
+              "Action": "Open"
+            },
+            {
+              "Type": "SendSignal",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 1.0,
+              "Entry": 2,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume",
+              "SignalKeys": [
+                "doorToggle"
+              ],
+              "SignalValues": [
+                "true"
+              ]
+            },
+            {
+              "Type": "ControlDoors",
+              "Event": "VOLUME_CREATE",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Action": "Open"
+            },
+            {
+              "Type": "ModifyTags",
+              "Event": "SIGNAL_RECEIVED",
+              "Interval": 0.0,
+              "Delay": 0.0,
+              "Operation": "Set",
+              "TagKey": "targetDoor",
+              "TagValue": "true",
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Conditions": [
+            {
+              "Type": "TagCondition",
+              "Event": "SIGNAL_RECEIVED",
+              "Source": "Event",
+              "TagKey": "doorFlipStart",
+              "TagValue": "",
+              "Inverted": false,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "TagCondition",
+              "Event": "SIGNAL_RECEIVED",
+              "Entry": 1,
+              "Source": "Event",
+              "TagKey": "doorToggle",
+              "TagValue": "true",
+              "Inverted": false,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "TagCondition",
+              "Event": "SIGNAL_RECEIVED",
+              "Entry": 2,
+              "Source": "Event",
+              "TagKey": "doorToggle",
+              "TagValue": "false",
+              "Inverted": false,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            },
+            {
+              "Type": "TagCondition",
+              "Event": "SIGNAL_RECEIVED",
+              "Source": "Self",
+              "TagKey": "targetDoor",
+              "TagValue": "false",
+              "Inverted": false,
+              "MatchKey": "",
+              "MatchValue": "",
+              "Radius": 50.0,
+              "Center": "Volume"
+            }
+          ],
+          "Enabled": true,
+          "TargetTypes": [
+            "Player"
+          ],
+          "Tags": {
+            "cleanupTag": "Empty",
+            "targetDoor": "false",
+            "doorToggle": "true"
+          },
+          "KeepLoaded": false,
+          "PrefabIndex": 1
+        }
+      }
+    }
+  ]
+}
